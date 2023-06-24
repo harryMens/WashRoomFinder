@@ -1,0 +1,23 @@
+<resources>
+<string name="app_name">öffentliche Toiletten Berlin</string>
+<string name="city">Stadt</string>
+<string name="description">Beschreibung</string>
+<string name="street">Straße</string>
+<string name="number">Hausnummer</string>
+<string name="postal_code">Postleitzahl</string>
+<string name="can_payed_be_coins">Mit Münzen bezahlbar</string>
+<string name="price">Preis</string>
+<string name="handicapped_accessible">barrierefrei</string>
+<string name="can_be_payed_in_app">Mit App bezahlbar</string>
+<string name="can_be_payed_with_NFC">Mit NFC bezahlbar</string>
+<string name="unknown">keine Informationen</string>
+<string name="yes">Ja</string>
+<string name="no">Nein</string>
+<string name="currentLocation">Cannot find Your Current Location</string>
+<string name="street_name">Straße</string>
+<string name="add_washroom">öffentliche Toilette an deiner Position hinzufügen </string>
+<string name="location_error">Keine Positionsbestimmung möglich</string>
+<string name="current_location">Deine Position</string>
+<string name="instruction_title">öffentliche Toiletten in Berlin</string>
+<string name="app_message">Diese praktische Anwendung zeigt alle öffentlichen Toiletten in Berlin an. Indem man einfach auf den jeweiligen Marker klickt, erhält man detaillierte Informationen zu jeder Toilette. Zusätzlich können die Nutzer auch eigenständig neue Toiletten zur Datenbank hinzufügen, wobei der Marker automatisch an die aktuelle Position des Nutzers gesetzt wird.</string>
+    </resources>
